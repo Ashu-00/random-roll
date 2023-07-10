@@ -1,0 +1,59 @@
+body {
+    background-color: #eeeeee;
+    color: white;
+    position: relative;
+
+}
+
+h2 {
+    font-weight: bold;
+}
+
+p {
+    padding-top: 10vh;
+    color: black;
+}
+
+h1 {
+    margin-bottom: 0%;
+}
+
+.Top {
+    margin: 0%;
+    background-color: #068FFF;
+    text-align: center;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.Dices {
+    margin-top: 0;
+    text-align: center;
+
+}
+
+.roll1 {
+    background-image: linear-gradient(to right, #4E4FEB, #068FFF);
+}
+
+.roll2 {
+    background-image: linear-gradient(to left, #4E4FEB, #068FFF);
+}
+
+.Button {
+    text-align: center;
+    margin-top: 0%;
+}
+
+.button {
+    width: 20%;
+    height: 3rem;
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+.footer {
+    background-image: linear-gradient(to top, #068FFF, #eeeeee);
+    text-align: center;
+    height: 100vh;
+}
